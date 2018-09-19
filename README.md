@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/ericzhang-cn/papery.png)](https://travis-ci.org/ericzhang-cn/papery)
 
+二次开发 来源https://github.com/ericzhang-cn/papery
+
 Papery - Create your simple, fast & elegant blog with plain text.
 
 # 一分钟生成自己的博客
